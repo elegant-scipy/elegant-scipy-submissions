@@ -2,7 +2,7 @@
 
 Repository to track code submissions the _Elegant SciPy_ book
 
-## "What's this all about?"
+## What's this all about?
 
 We ([@hdashnow](https://github.com/hdashnow),
 [@stefanv](https://github.com/stefanv), and
@@ -19,7 +19,7 @@ Have a look at the
 [existing issues](https://github.com/HarrietInc/elegant-scipy-submissions/issues)
 for inspiration!
 
-## "Wait wait wait... I want to know more."
+## Wait wait wait... I want to know more.
 
 Sure! We've written about this in @jni's blog:
 
