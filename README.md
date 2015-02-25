@@ -1,6 +1,6 @@
 # elegant-scipy-submissions
 
-Repository to track code submissions the _Elegant SciPy_ book
+Repository to track code submissions for the _Elegant SciPy_ book
 
 ## What's this all about?
 
