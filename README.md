@@ -4,7 +4,9 @@ Repository to track code submissions the _Elegant SciPy_ book
 
 ## "What's this all about?"
 
-We (@hdashnow, @stefanv, and @jni) are writing an O'Reilly book called _Elegant
+We ([@hdashnow](https://github.com/hdashnow),
+[@stefanv](https://github.com/stefanv), and
+[@jni](https://github.com/jni)) are writing an O'Reilly book called _Elegant
 SciPy_. It aims to teach fledgling Pythonistas to take their scientific
 programming to the next level, using the most elegant SciPy code examples we
 can find.
