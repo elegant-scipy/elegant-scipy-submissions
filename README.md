@@ -2,6 +2,15 @@
 
 Repository to track code submissions for the _Elegant SciPy_ book
 
+## Update! It's out!
+
+The prerelease of our book is
+[now available](http://shop.oreilly.com/product/0636920038481.do)
+from O'Reilly. We are working to make the code for the book available, but in
+the meantime, the data repository has everything you need to follow along:
+
+[https://github.com/elegant-scipy/elegant-scipy-data](https://github.com/elegant-scipy/elegant-scipy-data)
+
 ## What's this all about?
 
 We ([@hdashnow](https://github.com/hdashnow),
